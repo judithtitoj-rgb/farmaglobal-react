@@ -5,19 +5,10 @@ const API = './Json/farmacosis.json'
 
 
 export const getDummyProducts = async () => {
-    console.log("me ejecuté")
     const response = await fetch(`${API}`)
     const data = await response.json() 
-    console.log('D='+data);
     return data
 }
-
-/*export const getProductById = async (id: number) => {
-    const response = await fetch(`${API}/${id}`)
-    const data = await response.json() as DummyProduct
-
-    return data
-} */
 
 export const getProductById = async (id: number) => {
   const response = await fetch("../Json/farmacosis.json");
