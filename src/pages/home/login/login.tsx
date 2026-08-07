@@ -29,7 +29,7 @@ const Login = () => {
     }
 
     return (
-        <VStack h='100vh' bg='linear-gradient(cyan, green)' justifyContent='center'>
+        <VStack h='100vh' bg='linear-gradient(cyan, teal)' justifyContent='center'>
             
             <VStack align='start'>
                 <VStack gap='2em' align='start' p='2em' w='300px' bgColor='rgba(63, 224, 216, 0.73)' borderRadius='20px'>
@@ -46,7 +46,7 @@ const Login = () => {
 
                         <FormControl>
                             <FormLabel>Contraseña</FormLabel>
-                            <Input name='password' border='0' outline='1px solid' required outlineColor='green.700' placeholder="Ingrese su contraseña"/>
+                            <Input name='password' type='password' border='0' outline='1px solid' required outlineColor='green.700' placeholder="Ingrese su contraseña"/>
                         </FormControl>
 
                         <Button w='100%' colorScheme='green' type='submit'>Ingresar</Button>
