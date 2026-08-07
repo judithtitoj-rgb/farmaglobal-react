@@ -1,18 +1,19 @@
 import type { DummyAuth, DummyProduct } from '../module/dummyJson'
 
 //const API = './Json/farmacosis.json'
-import API from "../../Json/farmacosis.json"
+import API from "../../public/farmacosis.json"
 //const API = '../../Json/farmacosis.json'
 
 export const getDummyProducts = async () => {
-    //const response = await fetch(`${API}`)
-    const response = await fetch(API)
+    const response = await fetch(`${API}`)
+    //const response = await fetch(API)
     const data = await response.json() 
     return data
 }
 
 export const getProductById = async (id: number) => {
-  const response = await fetch("../Json/farmacosis.json");
+  //const response = await fetch("../../Json/farmacosis.json");
+  const response = await fetch("../../public/farmacosis.json");
   const products = await response.json();
 
   return products.find((p: DummyProduct) => p.id === id);
