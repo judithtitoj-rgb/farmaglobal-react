@@ -20,7 +20,8 @@ export const getProductById = async (id: number) => {
 
 const API2 = 'https://dummyjson.com'
 export const signIn = async (username: string, password: string) => {
-    const response = await fetch(`${API2}/auth/login`, {
+    //const response = await fetch(`${API2}/auth/login`, {
+    const response = await fetch(`API2/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ username, password })
