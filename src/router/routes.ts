@@ -3,6 +3,6 @@ export const Paths = {
     login: '/login',
     ClientPage: '/clientpage',
     ConsultaFarm: '/consultafarm',
-    DeliverySearch: '/delivery-search'
-
+    DeliverySearch: '/delivery-search',
+    FarmaContactpage: '/FarmaContactpage'
 }

@@ -6,7 +6,7 @@ import Login from '../pages/home/login/login'
 import ClientPage from '../pages/ClientPage'
 import ProductoBuscarPage from '../pages/ProductoBuscarPage'
 import DeliveryBuscarPage from '../pages/DeliveryBuscarPage'
-
+import FarmaContactpage from '../pages/FarmaContactpage'
 
 const AppRoutes = () => {
     return (
@@ -17,6 +17,7 @@ const AppRoutes = () => {
             </Route>
 
             <Route path='/login' element={<Login />}/>
+            <Route path='/FarmaContactpage' element={<FarmaContactpage />}/>
             <Route path='/clientpage' element={<ClientPage />}/>
             <Route path='/consultafarm' element={<ProductoBuscarPage />}/>
             <Route path='/delivery-search' element={<DeliveryBuscarPage />} />
