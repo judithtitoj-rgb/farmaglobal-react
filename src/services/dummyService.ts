@@ -1,9 +1,9 @@
 import type { DummyAuth, DummyProduct } from '../module/dummyJson'
 
 //const API = './Json/farmacosis.json'
-//import API from "../../public/farmacosis.json"
+import API from "../../public/farmacosis.json"
 //const API = '../../Json/farmacosis.json'
-const API = "../../public/farmacosis.json"
+//const API = "../../public/farmacosis.json"
 
 export const getDummyProducts = async () => {
     const response = await fetch(`${API}`)

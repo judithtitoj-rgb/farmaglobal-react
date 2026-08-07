@@ -7,7 +7,7 @@
     "stock": 120,
     "descuento": 10,
     "laboratorio": "AC Farma",
-    "imagen": "./images/paracetamol.jpg",
+    "imagen": "../images/paracetamol.jpg",
     "fechaVencimiento": "2028-03-15",
     "tipo": "Generico"
   },
