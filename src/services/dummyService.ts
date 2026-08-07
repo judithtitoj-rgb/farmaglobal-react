@@ -1,8 +1,9 @@
 import type { DummyAuth, DummyProduct } from '../module/dummyJson'
 
 //const API = './Json/farmacosis.json'
-import API from "../../public/farmacosis.json"
+//import API from "../../public/farmacosis.json"
 //const API = '../../Json/farmacosis.json'
+const API = "../../public/farmacosis.json"
 
 export const getDummyProducts = async () => {
     const response = await fetch(`${API}`)
@@ -21,8 +22,8 @@ export const getProductById = async (id: number) => {
 
 const API2 = 'https://dummyjson.com'
 export const signIn = async (username: string, password: string) => {
-    //const response = await fetch(`${API2}/auth/login`, {
-    const response = await fetch(`API2/auth/login`, {
+    const response = await fetch(`${API2}/auth/login`, {
+    //const response = await fetch(`API2/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ username, password })
