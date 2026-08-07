@@ -7,7 +7,7 @@
     "stock": 120,
     "descuento": 10,
     "laboratorio": "AC Farma",
-    "imagen": "./images/paracetamol.jpg",
+    "imagen": "../images/paracetamol.jpg",
     "fechaVencimiento": "2028-03-15",
     "tipo": "Generico"
   },
@@ -19,7 +19,7 @@
     "stock": 90,
     "descuento": 5,
     "laboratorio": "Teva",
-    "imagen": "./images/Ibuprofeno.png",
+    "imagen": "../images/Ibuprofeno.png",
     "fechaVencimiento": "2028-05-20",
     "tipo": "Generico"
   },
@@ -31,7 +31,7 @@
     "stock": 50,
     "descuento": 5,
     "laboratorio": "Genfar",
-    "imagen": "./images/Amoxicilina 500mg.jpg",
+    "imagen": "../images/Amoxicilina 500mg.jpg",
     "fechaVencimiento": "2027-12-30",
     "tipo": "Generico"
   },
@@ -43,7 +43,7 @@
     "stock": 80,
     "descuento": 8,
     "laboratorio": "AC Farma",
-    "imagen": "./images/loratadina.jpg",
+    "imagen": "../images/loratadina.jpg",
     "fechaVencimiento": "2028-08-15",
     "tipo": "Generico"
   },
@@ -55,7 +55,7 @@
     "stock": 70,
     "descuento": 10,
     "laboratorio": "Medifarma",
-    "imagen": "./images/Omeprazol 20mg.jpg",
+    "imagen": "../images/Omeprazol 20mg.jpg",
     "fechaVencimiento": "2028-11-01",
     "tipo": "Generico"
   },
@@ -67,7 +67,7 @@
     "stock": 100,
     "descuento": 0,
     "laboratorio": "Bayer",
-    "imagen": "./images/VitaminaC.jpg",
+    "imagen": "../images/VitaminaC.jpg",
     "fechaVencimiento": "2029-01-10",
     "tipo": "Marca"
   },
@@ -79,7 +79,7 @@
     "stock": 60,
     "descuento": 10,
     "laboratorio": "AC Farma",
-    "imagen": "./images/Diclofenaco 50mg.jpg",
+    "imagen": "../images/Diclofenaco 50mg.jpg",
     "fechaVencimiento": "2028-05-05",
     "tipo": "Generico"
   },
@@ -91,7 +91,7 @@
     "stock": 30,
     "descuento": 5,
     "laboratorio": "GSK",
-    "imagen": "./images/Salbutamol Inhalador.jpg",
+    "imagen": "../images/Salbutamol Inhalador.jpg",
     "fechaVencimiento": "2028-07-01",
     "tipo": "Marca"
   },
@@ -103,7 +103,7 @@
     "stock": 85,
     "descuento": 15,
     "laboratorio": "Bayer",
-    "imagen": "./images/Aspirina 100mg.jpg",
+    "imagen": "../images/Aspirina 100mg.jpg",
     "fechaVencimiento": "2028-10-01",
     "tipo": "Marca"
   },
@@ -115,7 +115,7 @@
     "stock": 55,
     "descuento": 10,
     "laboratorio": "Medifarma",
-    "imagen": "./images/Metformina 850mg.jpg",
+    "imagen": "../images/Metformina 850mg.jpg",
     "fechaVencimiento": "2028-12-15",
     "tipo": "Generico"
   },
@@ -127,7 +127,7 @@
     "stock": 40,
     "descuento": 10,
     "laboratorio": "AC Farma",
-    "imagen": "./images/Losartan.jpg",
+    "imagen": "../images/Losartan.jpg",
     "fechaVencimiento": "2028-02-18",
     "tipo": "Generico"
   },
@@ -139,7 +139,7 @@
     "stock": 45,
     "descuento": 5,
     "laboratorio": "Pfizer",
-    "imagen": "./images/Atorvastatina 20mg.jpg",
+    "imagen": "../images/Atorvastatina 20mg.jpg",
     "fechaVencimiento": "2028-04-11",
     "tipo": "Marca"
   },
@@ -151,7 +151,7 @@
     "stock": 110,
     "descuento": 5,
     "laboratorio": "AC Farma",
-    "imagen": "./images/Clorfenamina 4mg.jpg",
+    "imagen": "../images/Clorfenamina 4mg.jpg",
     "fechaVencimiento": "2028-03-01",
     "tipo": "Generico"
   },
@@ -163,7 +163,7 @@
     "stock": 35,
     "descuento": 10,
     "laboratorio": "Sandoz",
-    "imagen": "./images/Azitromicina 500mg.jpg", 
+    "imagen": "../images/Azitromicina 500mg.jpg", 
     "fechaVencimiento": "2028-02-10",
     "tipo": "Marca"
   },
@@ -175,7 +175,7 @@
     "stock": 75,
     "descuento": 10,
     "laboratorio": "Genfar",
-    "imagen": "./images/ceterizina.jpg",
+    "imagen": "../images/ceterizina.jpg",
     "fechaVencimiento": "2028-10-14",
     "tipo": "Generico"
   },
@@ -187,7 +187,7 @@
     "stock": 65,
     "descuento": 5,
     "laboratorio": "Genfar",
-    "imagen": "./images/Ranitidina 150mg.jpg",
+    "imagen": "../images/Ranitidina 150mg.jpg",
     "fechaVencimiento": "2027-09-20",
     "tipo": "Generico"
   },
@@ -199,7 +199,7 @@
     "stock": 50,
     "descuento": 12,
     "laboratorio": "Bayer",
-    "imagen": "./images/Calcio Vitamina D.JPG",
+    "imagen": "../images/Calcio Vitamina D.JPG",
     "fechaVencimiento": "2028-09-15",
     "tipo": "Marca"
   },
@@ -211,7 +211,7 @@
     "stock": 40,
     "descuento": 8,
     "laboratorio": "Medifarma",
-    "imagen": "./images/Ciprofloxacino.JPG",
+    "imagen": "../images/Ciprofloxacino.JPG",
     "fechaVencimiento": "2028-05-25",
     "tipo": "Marca"
   },
@@ -223,7 +223,7 @@
     "stock": 150,
     "descuento": 5,
     "laboratorio": "Medifarma",
-    "imagen": "./images/Alcohol Medicinal.jpg",
+    "imagen": "../images/Alcohol Medicinal.jpg",
     "fechaVencimiento": "2029-05-01",
     "tipo": "Marca"
   },
@@ -235,7 +235,7 @@
     "stock": 130,
     "descuento": 5,
     "laboratorio": "AC Farma",
-    "imagen": "./images/Agua Oxigenada.jpg",
+    "imagen": "../images/Agua Oxigenada.jpg",
     "fechaVencimiento": "2029-03-15",
     "tipo": "Marca"
   }
