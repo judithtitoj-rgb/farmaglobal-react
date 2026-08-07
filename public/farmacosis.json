@@ -19,7 +19,7 @@
     "stock": 90,
     "descuento": 5,
     "laboratorio": "Teva",
-    "imagen": "./images/Ibuprofeno.png",
+    "imagen": "../images/Ibuprofeno.png",
     "fechaVencimiento": "2028-05-20",
     "tipo": "Generico"
   },
