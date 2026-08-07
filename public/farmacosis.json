@@ -7,7 +7,7 @@
     "stock": 120,
     "descuento": 10,
     "laboratorio": "AC Farma",
-    "imagen": "../images/paracetamol.jpg",
+    "imagen": "./images/paracetamol.jpg",
     "fechaVencimiento": "2028-03-15",
     "tipo": "Generico"
   },
@@ -19,7 +19,7 @@
     "stock": 90,
     "descuento": 5,
     "laboratorio": "Teva",
-    "imagen": "../images/Ibuprofeno.png",
+    "imagen": "./images/Ibuprofeno.png",
     "fechaVencimiento": "2028-05-20",
     "tipo": "Generico"
   },
